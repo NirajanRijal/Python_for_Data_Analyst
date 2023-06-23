@@ -15,3 +15,5 @@ Python Tutorial 4: Flow Control in Python<br />
 Sequence data type<br />
 [List in Python](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Python%20List.pdf)<br />
 [String in Python](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/String%20(Python).pdf)<br />
+[Tuple in Python](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Tuple%20in%20Python.pdf)<br />
+Dictionary data type<br />
