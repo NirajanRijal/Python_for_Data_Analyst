@@ -3,7 +3,7 @@
 
 [Python Tutorial 1](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Python%20Tutorial%201.pdf)<br />
 [Python Tutorial 2:Type Conversion](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Type%20Conversion%20.pdf)<br />
-[Python Tutorial 3:Operator in Python]<br />
+[Python Tutorial 3: Operator in Python]<br />
 [Arithmetic Operator in Python](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Arithmetic%20Operator%20in%20Python%20(Chapter%201).pdf)<br />
 [Assignment and Comparision Operator in Python](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Assignment%20and%20Comparision%20Operator%20.pdf)<br />
 [Logical and Membership Operator in Python](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/logical%20and%20Membership%20operator.pdf)<br />
