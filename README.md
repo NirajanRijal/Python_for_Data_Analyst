@@ -26,3 +26,7 @@ Dictionary data type<br />
 
 Set data type<br />
 - [Sets in Python](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Sets%20in%20Python.pdf)<br />
+
+Numerical and Boolean data type<br />
+- [Int,Float,Complex and Boolean-True, False](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Data%20types%20in%20Python%20(At%20a%20Glance).pdf)<br />
+
