@@ -22,6 +22,7 @@ Sequence data type<br />
 - [Tuple in Python](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Tuple%20in%20Python.pdf)<br />
 
 Dictionary data type<br />
-- [Dictionary in python](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Python%20Dictionaries.pdf)<br />
+- [Dictionary in Python](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Python%20Dictionaries.pdf)<br />
 
 Set data type<br />
+- [Sets in Python](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Sets%20in%20Python.pdf)<br />
