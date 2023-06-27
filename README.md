@@ -14,6 +14,7 @@ Python Tutorial 3: Operator in Python<br />
 Python Tutorial 4: Flow Control in Python<br />
 - [if, else, elif statement - Conditional Statement](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/if%20else%20elif%20statement.pdf)<br />
 - [Basic Calculator Practice using if else elif statement](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Basic%20calculator%20using%20if%20else%20elif%20statement.pdf)<br />
+- [Loops in python](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Loop%20in%20Python%20with%20Transfer%20statement%20(Break%20and%20continue).pdf)
 
 [Python Tutorial 5: Python Data types](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Data%20types%20in%20Python%20(At%20a%20Glance).pdf)<br />
 Sequence data type<br />
