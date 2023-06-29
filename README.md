@@ -32,6 +32,7 @@ Numerical and Boolean data type<br />
 - [Int,Float,Complex and Boolean-True, False](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Data%20types%20in%20Python%20(At%20a%20Glance).pdf)<br />
 
 Practice Tutorial<br />
+- [Practice Test 1](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Practice%20Test%201.pdf)<br />
 
 ___________________________________________________________________________________________________________________________________________________________________
 
