@@ -35,5 +35,6 @@ Practice Tutorial<br />
 - [Practice Test 1-Basic](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Practice%20Test%201.pdf)<br />
 - [Practice Test 2 - Data types](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Practice%20Test%202%20-%20Data%20types.pdf)<br />
 - [Practice Test 3 - if else elif](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Practice%20Test%203%20-%20if%20else%20elif%20.pdf)<br />
+- [Practice Test 4 - For loop in Python](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Practice%20Tutorial%204%20-%20For%20Loops%20in%20Python.pdf)<br />
 ___________________________________________________________________________________________________________________________________________________________________
 
