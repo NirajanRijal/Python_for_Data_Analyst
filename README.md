@@ -38,5 +38,6 @@ Practice Tutorial<br />
 - [Practice Test 4 - For loop in Python](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Practice%20Tutorial%204%20-%20For%20Loops%20in%20Python.pdf)<br />
 ___________________________________________________________________________________________________________________________________________________________________
 
-[INTERMEDIATE PYTHON]
+[INTERMEDIATE PYTHON]<br />
+
 [Python function](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Python%20function.pdf)<br />
