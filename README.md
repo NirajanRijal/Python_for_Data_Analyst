@@ -42,3 +42,5 @@ ________________________________________________________________________________
 
 [Python function](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Python%20function.pdf)<br />
 [Small tutorial: Program to separate vowels from list of words](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Program%20to%20Separate%20vowels.pdf)<br />
+[Python Practice Tutorial - if else, loop, function and range](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Python%20Practice%20Tutorial%20-%20if%20else%2C%20loop%2C%20function%20and%20range%20.pdf)<br />
+
