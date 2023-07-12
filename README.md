@@ -41,3 +41,4 @@ ________________________________________________________________________________
 [INTERMEDIATE PYTHON]<br />
 
 [Python function](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Python%20function.pdf)<br />
+[Small tutorial: Program to separate vowels from list of words](https://github.com/NirajanRijal/Python_for_Data_Analyst/blob/main/Program%20to%20Separate%20vowels.pdf)<br />
